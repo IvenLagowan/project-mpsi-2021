@@ -4,7 +4,7 @@
 <div id="box">
 
   <h1>Tentang</h1>
-  <img src="img/pace.png" width="150" align="left"/>
+  <img src="img/pace.jpg" width="150" align="left"/>
   <table>
     <tr>
       <ul>

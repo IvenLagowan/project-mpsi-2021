@@ -3,14 +3,14 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Kios - Pace Noken</title>
+  <title>TOKO JUALAN  Jersey Online</title>
   <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
   <div class="header">
-    <p>Kios Pace | Noken</p>
+    <p>TOKO JUALAN | Jersey Online</p>
   </div>
   <nav>
     <ul> <?php include("page/navbar.php") ?> </ul>
